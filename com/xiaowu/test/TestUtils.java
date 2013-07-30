@@ -1,7 +1,7 @@
-package com.xiaowu.util;
-import static com.xiaowu.util.Utils.*;
+package com.xiaowu.test;
+import static com.xiaowu.utils.BaseStatic.*;
 
-public class Start {
+public class TestUtils {
 
 	/**
 	 * @param args

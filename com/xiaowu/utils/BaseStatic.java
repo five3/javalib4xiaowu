@@ -1,8 +1,8 @@
-package com.xiaowu.util;
+package com.xiaowu.utils;
 
 import java.util.ArrayList;
 import java.util.List;
-public class Utils {
+public class BaseStatic {
 	/**
 	 * @param args
 	 */
